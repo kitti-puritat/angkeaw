@@ -1,7 +1,7 @@
 # angkeaw
 
 OpenBiblio version angkeaw พัฒนาโดย
-* คุณกิตติ ภูริทัต ภาควิชาบรรณารักษศาสตร์และสารสนเทศศาสตร์ มหาวิทยาลัยเชียงใหม่
+* กิตติ ภูริทัต ภาควิชาบรรณารักษศาสตร์และสารสนเทศศาสตร์ มหาวิทยาลัยเชียงใหม่
 * develop for compatible for mysql 5.5 (or higher) and php 5.1 (or higher ) 
 * develop for compatible with xampp version 5.X.X
 
